@@ -1,0 +1,4 @@
+interface:
+  display_name: "ComfyUI 이미지 생성 실험"
+  short_description: "체크포인트, 샘플링, 시드, 후처리를 고정하고 이미지 결과 비교"
+  default_prompt: "$dacon-comfyui-workflows ComfyUI에서 같은 시드로 설정을 하나씩 바꾸며 결과를 비교해 줘."

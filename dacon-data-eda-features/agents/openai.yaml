@@ -1,0 +1,4 @@
+interface:
+  display_name: "데이터 EDA와 피처 엔지니어링"
+  short_description: "데이터 품질, 시각화, 파생 변수 효과를 동일 분할에서 검증"
+  default_prompt: "$dacon-data-eda-features 학습 데이터를 탐색하고 누수 없이 피처 후보의 효과를 비교해 줘."

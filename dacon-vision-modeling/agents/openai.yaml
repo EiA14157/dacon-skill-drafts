@@ -1,0 +1,4 @@
+interface:
+  display_name: "이미지 결함과 비전 모델 검증"
+  short_description: "레이블·결함 크기·생산 배치를 살펴 비전 모델과 학습법을 비교"
+  default_prompt: "$dacon-vision-modeling 이미지 결함 데이터의 레이블을 확인하고 모델 가설을 세워 직접 검증해 줘."

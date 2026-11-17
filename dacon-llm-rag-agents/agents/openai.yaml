@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM·RAG·AI 에이전트 평가"
+  short_description: "프롬프트, 검색, 도구 호출의 기여를 같은 평가셋에서 비교"
+  default_prompt: "$dacon-llm-rag-agents 프롬프트 기준선과 RAG·에이전트 후보를 같은 사례에서 평가해 줘."

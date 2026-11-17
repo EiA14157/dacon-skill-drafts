@@ -1,0 +1,4 @@
+interface:
+  display_name: "경진대회 실험 설계와 논문 기록"
+  short_description: "가설, 베이스라인, 실행 결과, 다음 실험을 연구 기록으로 연결"
+  default_prompt: "$dacon-competition-experiments 공식 규칙을 읽고 베이스라인을 실행한 뒤 논문 실험 기록을 작성해 줘."
